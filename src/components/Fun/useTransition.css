@@ -1,0 +1,33 @@
+.play {
+  margin-left: 20px;
+}
+
+.color-container {
+  min-height: 50px;
+}
+
+.color {
+  font-size: 4em;
+  font-weight: 800;
+  line-height: 80px;
+}
+
+.ORANGE {
+  color: #ffb84c;
+}
+
+.PINK {
+  color: #f266ab;
+}
+
+.PURPLE {
+  color: #a459d1;
+}
+
+.RED {
+  color: #ff0000;
+}
+
+.GREEN {
+  color: #00b300;
+}
